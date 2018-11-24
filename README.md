@@ -1,6 +1,5 @@
 # TraitHub
 This is a GitHub repository for the Tundra Trait Team database
-
 https://github.com/ShrubHub/TraitHub
 
 primary contact: Anne Bjorkman <annebj@gmail.com>
