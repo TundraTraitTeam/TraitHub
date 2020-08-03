@@ -32,3 +32,6 @@ Bjorkman AD, IH Myers-Smith, SC Elmendorf, S Normand, N Rüger, et al. 2018. Ch
 Thomas HJD, IH Myers-Smith, Bjorkman AD, SC Elmendorf, D Blok, et al. 2018. Traditional plant functional groups explain variation in economic but not size-related traits across the tundra biome. Global Ecology and Biogeography. doi: http://doi.org/10.1111/geb.12783
 
 Thomas HJD, AD Bjorkman, IH Myers-Smith, SC Elmendorf, J Kattge, et al. 2020. Global plant trait relationships extend to the climatic extremes of the tundra biome. Nature Communications. doi: https://doi.org/10.1038/s41467-020-15014-4
+
+# Acknowledgements:
+This dataset is an outcome of the sTundra working group supported by <a href="https://www.idiv.de/en/sdiv.html" target="_blank">sDiv, the Synthesis Centre of the German Centre for Integrative Biodiversity Research (iDiv)</a>. We acknowledge the contributions many field assistants to trait data collection, and thank the governments, parks, field stations, and local and indigenous people for the opportunity to conduct research on their land.
